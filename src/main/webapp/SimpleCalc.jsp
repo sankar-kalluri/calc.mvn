@@ -10,9 +10,9 @@
 </head>
 <body>
 <p class=banner>Calculators</p>
-<button class="tablink" onclick="openPage('SimpleCalculator', this, 'orange')" id="defaultOpen">Simple Calculator</button>
-<button class="tablink" onclick="openPage('AgeCalculator', this, 'orange')" >Age Calculator</button>
-<button class="tablink" onclick="openPage('EMICalculator', this, 'orange')" >EMI Calculator</button>
+<button class="tablink" onclick="openPage('SimpleCalculator', this, 'BLUE')" id="defaultOpen">Simple Calculator</button>
+<button class="tablink" onclick="openPage('AgeCalculator', this, 'BLUE')" >Age Calculator</button>
+<button class="tablink" onclick="openPage('EMICalculator', this, 'BLUE')" >EMI Calculator</button>
 
 <div id="SimpleCalculator" class="tabcontent">
 <table class=tableclass>
