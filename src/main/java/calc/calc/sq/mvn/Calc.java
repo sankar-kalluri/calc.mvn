@@ -23,4 +23,7 @@ public class Calc extends java.lang.Thread{
 	public double changeSign(double num){
         return -1 * num;
     }
+	//commit
 }
+
+
